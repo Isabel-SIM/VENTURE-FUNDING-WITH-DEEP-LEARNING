@@ -26,3 +26,5 @@ In order to achieve this, I followed the approach outlined in the instructions:<
 - These techniques included adjusting input data, adding more/less neurons and hidden layers, using different activation functions and altering the number of training epochs.<br>
 - I compared the accuracy scores achieved by each model to assess their performance.<br>
 - Throughout the project, I utilised various libraries such as Pandas, scikit-learn, TensorFlow, and Keras to preprocess the data, build the neural network model, and evaluate its performance. By applying machine learning and deep learning techniques, I have created a predictive model that can assist Alphabet Soup in making informed decisions regarding startup funding applications.
+<br><br><br>
+I aimed to achieve a better accuracy with each model, which I managed to do.
