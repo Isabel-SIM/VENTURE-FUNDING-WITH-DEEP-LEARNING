@@ -27,4 +27,19 @@ In order to achieve this, I followed the approach outlined in the instructions:<
 - I compared the accuracy scores achieved by each model to assess their performance.<br>
 - Throughout the project, I utilised various libraries such as Pandas, scikit-learn, TensorFlow, and Keras to preprocess the data, build the neural network model, and evaluate its performance. By applying machine learning and deep learning techniques, I have created a predictive model that can assist Alphabet Soup in making informed decisions regarding startup funding applications.
 <br><br><br>
-I aimed to achieve a better accuracy with each model, which I managed to do.
+
+
+I aimed to achieve a better accuracy with each model, which I was sucessful in doing:
+<br>
+
+**Original Model Results**<br>
+Loss: 0.554974377155304, Accuracy: 0.727580189704895
+
+<br>  
+**Alternative Model 1 Results**<br>
+Loss: 0.5515909790992737, Accuracy: 0.7318950295448303
+
+<br>
+
+**Alternative Model 2 Results**<br>
+Loss: 0.5592763423919678, Accuracy: 0.7330612540245056
