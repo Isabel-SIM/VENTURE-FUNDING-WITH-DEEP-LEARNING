@@ -33,13 +33,13 @@ I aimed to achieve a better accuracy with each model, which I was sucessful in d
 <br>
 
 **Original Model Results**<br>
-Loss: 0.554974377155304, Accuracy: 0.727580189704895
+Accuracy: 0.727580189704895
 
 <br>  
 **Alternative Model 1 Results**<br>
-Loss: 0.5515909790992737, Accuracy: 0.7318950295448303
+Accuracy: 0.7318950295448303
 
 <br>
 
 **Alternative Model 2 Results**<br>
-Loss: 0.5592763423919678, Accuracy: 0.7330612540245056
+Accuracy: 0.7330612540245056
