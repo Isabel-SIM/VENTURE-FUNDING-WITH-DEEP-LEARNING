@@ -64,4 +64,3 @@ The project consists of three main sections:
 3. Model Optimization
 
 Each section includes detailed code and explanations. You can follow the instructions provided in the project notebook to reproduce the results.
-
